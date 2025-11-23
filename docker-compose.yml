@@ -8,9 +8,6 @@
 # the FastAPI Calculator application. Docker Compose is a tool that allows you
 # to define and manage multi-container Docker applications using a YAML file.
 
-# Version Specification
-version: '3.8'  # Specify the version of Docker Compose syntax to use.
-
 # Services Definition
 services:
   # Service: web
